@@ -26,12 +26,12 @@ Building impactful projects and improving my coding skills.
 ---
 
 ## Projects
-- FinEase App
-- Travel Buddy App
-- think2build
-- cosmicinsights
-- event-genie-ai
-- many more
+Think2Build – Startup idea validation platform
+CosmicInsights – AI powered insights,astrology system
+Event Genie AI – Smart event planning assistant
+FinEase - Smart money management assistant
+
+
 
 ---
 
