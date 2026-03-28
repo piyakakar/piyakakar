@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Piya 👋
 
-<!--
-**piyakakar/piyakakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student | Future Data Scientist
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I am a first year Computer Science student passionate about technology and innovation.
+
+I enjoy:
+- Building projects
+- Exploring AI tools
+- Learning new technologies
+- Solving real-world problems
+
+---
+
+## Tech Stack
+Python | C | Git | Firebase | React
+
+---
+
+## Current Goal
+Building impactful projects and improving my coding skills.
+
+---
+
+## Projects
+- FinEase App
+- Travel Buddy App
+- think2build
+- cosmicinsights
+- event-genie-ai
+- many more 
