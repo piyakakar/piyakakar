@@ -31,4 +31,11 @@ Building impactful projects and improving my coding skills.
 - think2build
 - cosmicinsights
 - event-genie-ai
-- many more 
+- many more
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyakakar&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyakakar&layout=compact)
