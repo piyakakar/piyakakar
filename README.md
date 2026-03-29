@@ -1,6 +1,7 @@
 # Hi, I'm Piya 👋
 
-Computer Science Student | Future Data Scientist
+Computer Science Student | Interested in AI, ML & Data Science
+Building real-world apps and AI-powered tools
 
 ---
 
