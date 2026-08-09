@@ -6,7 +6,7 @@ Building real-world apps and AI-powered tools
 ---
 
 ## About Me
-I am a first year Computer Science student passionate about technology and innovation.
+I am a second year Computer Science student passionate about technology and innovation.
 
 I enjoy:
 - Building projects
