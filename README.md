@@ -1,43 +1,43 @@
-# Hi, I'm Piya 👋
+# Piya Kakar
 
-Computer Science Student | Interested in AI, ML & Data Science
-Building real-world apps and AI-powered tools
+### AI/ML Developer | Computer Science & Engineering
+
+I'm a Computer Science student specialising in Artificial Intelligence and Machine Learning, interested in exploring how intelligent systems are designed, developed and applied to real-world problems.
+
+I enjoy experimenting with technology, learning new concepts and continuously expanding my understanding of software and artificial intelligence.
+
+### About Me
+- 🎓 Pursuing B.Tech in Computer Science & Engineering (AI/ML).
+- 🤖 Interested in Artificial Intelligence and Machine Learning.
+- 🔍 Exploring Computer Vision and intelligent systems.
+- 💻 Learning and working across software development.
+- 🌱 Continuously improving through experimentation and hands-on learning.
+
+### Areas of Interest
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Deep Learning
+- Software Engineering
+- Full-Stack Development
+
+### Technical Skills
+
+**Programming Languages:** Python, C, JavaScript
+
+**AI & Computer Vision:** OpenCV, MediaPipe, NumPy
+
+**Web Development:** HTML, CSS, React, Node.js, Express.js
+
+**Database:** MongoDB
+
+**Tools:** Git, GitHub, VS Code, Vercel
+
+### Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/piya-kakar-419119350/
+- GitHub: https://github.com/piyakakar
 
 ---
 
-## About Me
-I am a second year Computer Science student passionate about technology and innovation.
-
-I enjoy:
-- Building projects
-- Exploring AI tools
-- Learning new technologies
-- Solving real-world problems
-
----
-
-## Tech Stack
-Python | C | Git | Firebase | React
-
----
-
-## Current Goal
-Building impactful projects and improving my coding skills.
-
----
-
-## Projects
-- **FinEase** – Expense tracker with rewards & gamification
-- **Travel Buddy** – Smart AI travel recommendation app
-- **Think2Build** – Platform to validate startup ideas
-- **CosmicInsights** – AI tool for insights & predictions
-- **Event Genie AI** – AI-based event planning assistant
-
-
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyakakar&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyakakar&layout=compact)
+*Learning continuously. Building thoughtfully. Exploring what's possible.*
